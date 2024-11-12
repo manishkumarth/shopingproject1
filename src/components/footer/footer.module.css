@@ -1,0 +1,19 @@
+.row {
+  /* height: 200px; */
+  width: 100%;
+  margin-right: 0;
+  margin-left: 0;
+}
+.left {
+}
+.right {
+}
+
+.rightfoot {
+  transition: all 0.3s ease-in;
+}
+.rightfoot:hover {
+  background-color: coral;
+  cursor: pointer;
+  color: #000;
+}

@@ -1,0 +1,13 @@
+.main {
+  height: 90vh;
+  width: 100%;
+  background-image: url(https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg);
+  background-size: cover;
+}
+.cal-6 {
+  width: 20px;
+}
+
+.own {
+  margin: auto;
+}

@@ -1,0 +1,22 @@
+.logoimg {
+  height: 40px;
+  width: 60px;
+}
+
+/* @media only screen and (max-width: 768px) {
+  .navitems {
+    display: none;
+  }
+  .menubtn{
+    display: block;
+  } 
+}
+.menubtn{
+  display: block;
+  
+}
+
+.navitems {
+  display: block;
+  transition: all 0.3s ease-in;
+} */
